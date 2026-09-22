@@ -2,3 +2,7 @@
 
 Este repositorio fue creado como parte de un taller práctico de Git. En él se realizan ejercicios básicos para aprender a crear repositorios, registrar cambios y sincronizar archivos con GitHub.
 
+
+
+Este taller permite practicar el uso básico de Git y GitHub.
+
